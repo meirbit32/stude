@@ -1,0 +1,7 @@
+https://code.visualstudio.com/docs/python/tutorial-django
+
+guid step by step by VSCodetutorial website
+
+admin username:meirbit32
+admin email: meirbit32@gmail.com
+p: 185bit736
